@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+.DS_Store
+*.pyc
+
+# Project specific ignores
+data/
+outputs/
+docs/
+images/
+reports/

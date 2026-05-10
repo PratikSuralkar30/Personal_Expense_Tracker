@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+sqlite3; sys_platform == 'linux' or sys_platform == 'win32' or sys_platform == 'darwin' # builtin but just in case
+openpyxl
