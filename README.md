@@ -104,7 +104,7 @@ Highest Spending Category: Education ($3,450.00)
 🎉 Pipeline execution completed successfully!
 ```
 
-### Screenshots to Capture (For GitHub/LinkedIn)
+### Screenshots to Capture
 - Terminal output showing the KPIs.
 - The interactive Streamlit Dashboard in the browser.
 - The 4 generated charts in the `images/` folder.
